@@ -2,15 +2,10 @@
 
 Juego/simulador geopolítico en navegador basado en reglas tipo Conway/Cederman.
 
-## Jugar
+## Iniciar el juego
 
-Abre `index.html` en un navegador moderno o publícalo con GitHub Pages.
+Abre `https://pasan23.github.io/geolife/` en un navegador moderno. Mejor en pantalla completa (f11).
 
-## Archivos necesarios
+## Mecánicas
 
-- `index.html`
-- `styles.css`
-- `app.js`
-- `sim-worker.js`
-
-No hace falta subir archivos de Electron, instaladores `.exe`, `.bat`, `.cmd`, `.ps1`, `package.json` ni `main.js` para GitHub Pages.
+Las normas y principales mecánicas quedan explicadas en `infografía_explicativa_geoLife.pdf`
